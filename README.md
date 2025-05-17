@@ -56,7 +56,7 @@ An AI-driven platform for civic engagement and social change via micro-campaigns
 ---
 
 ## ⚡ Fun facts:
-- 💡 I’ve solved **300+ problems on LeetCode**: [leetcode.com/u/Abhishhek](https://leetcode.com/u/Abhishhek)
+- 💡 I’ve solved **300+ problems on LeetCode**: 
 - 🧠 Passionate about turning ideas into products
 - 🤝 Always up for learning, mentoring, and networking
 
