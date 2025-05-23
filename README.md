@@ -1,13 +1,22 @@
+<table>
+<tr>
+<td>
+
 # 👋 Hi, I’m Abhishek Verma
 
 🎓 **B.Tech Computer Science Student | MERN Stack Developer | AI Enthusiast**  
 📍 Ghaziabad, Uttar Pradesh, India
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Abhishhek-Verma&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishhek-Verma" /> 
 </p>
+
+</td>
+<td>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -65,6 +74,8 @@ An AI-driven platform for civic engagement and social change via micro-campaigns
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="40"/>
 </p>
@@ -94,9 +105,4 @@ An AI-driven platform for civic engagement and social change via micro-campaigns
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishhek-Verma&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishhek-Verma" alt="GitHub Streak" />
-</p>
-
----
-
-_“Code for change. Build with purpose.”_
+  <img src="https://github-r
