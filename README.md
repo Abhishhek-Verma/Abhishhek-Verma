@@ -3,6 +3,12 @@
 🎓 **B.Tech Computer Science Student | MERN Stack Developer | AI Enthusiast**  
 📍 Ghaziabad, Uttar Pradesh, India
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Abhishhek-Verma&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishhek-Verma" /> 
+</p>
+
 ---
 
 ## 👀 I’m interested in:
@@ -46,17 +52,27 @@ An AI-driven platform for civic engagement and social change via micro-campaigns
 
 ---
 
-## 🧠 Tech Stack & Skills:
-- **Languages:** Java, JavaScript, Python, C
-- **Web Dev:** React.js, Node.js, Express.js, Tailwind CSS, HTML
-- **Databases:** MongoDB, SQL
-- **Tools:** Git, OpenAI API, GraphQL, Recharts
-- **Certifications:** Infosys Springboard – Artificial Intelligence
+## 🧠 Tech Stack & Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="40"/>
+</p>
 
 ---
 
 ## ⚡ Fun facts:
-- 💡 I’ve solved **300+ problems on LeetCode**: 
+- 💡 I’ve solved **300+ problems on LeetCode**
 - 🧠 Passionate about turning ideas into products
 - 🤝 Always up for learning, mentoring, and networking
 
@@ -67,6 +83,19 @@ An AI-driven platform for civic engagement and social change via micro-campaigns
 - 💼 [LinkedIn](https://www.linkedin.com/in/Abhishhek-Verma)
 - 🌐 [Portfolio Website](https://abhishek-verma-portfolio.netlify.app/)
 - 🧑‍💻 [GitHub](https://github.com/Abhishhek-Verma)
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishhek-Verma&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishhek-Verma&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishhek-Verma" alt="GitHub Streak" />
+</p>
 
 ---
 
