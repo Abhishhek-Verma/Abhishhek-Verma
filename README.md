@@ -90,7 +90,7 @@ An AI-driven platform for civic engagement and social change via micro-campaigns
 ---
 
 ## 📫 Reach me at:
-- 📧 abhi.ups838@gmail.com
+- 📧 [Email](mailto:abhi.ups838@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/Abhishhek-Verma)
 - 🌐 [Portfolio Website](https://abhishek-verma-portfolio.netlify.app/)
 - 🧑‍💻 [GitHub](https://github.com/Abhishhek-Verma)
