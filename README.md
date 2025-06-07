@@ -57,7 +57,7 @@ An AI-driven platform for civic engagement and social change via micro-campaigns
 ## 💞️ I’m looking to collaborate on:
 - Open-source civic tech or AI-based platforms
 - Full-stack development using MERN or Next.js
-- Hackathons and idea-stage startup projects
+- Hackathons and idea-stage startup project
 
 ---
 
