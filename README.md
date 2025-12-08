@@ -47,7 +47,7 @@ A dynamic developer portfolio generator that turns GitHub data into AI-powered d
 
 ### 🗳️ [Civic Platform](https://github.com/Abhishhek-Verma/Civic-Platform)
 An AI-driven platform for civic engagement and social change via micro-campaigns.  
-**Tech Stack:** MERN Stack, GPT-4, DigiLocker API(Under Process)
+**Tech Stack:** MERN Stack, GPT-4, DigiLocker API (Under Process)  
 > 🔹 1-click campaign creation using AI & images  
 > 🔹 Live issue maps, modular engagement tiers  
 > 🔹 4-level trust framework with ID verification
@@ -83,7 +83,7 @@ An AI-driven platform for civic engagement and social change via micro-campaigns
 ---
 
 ## ⚡ Fun facts:
-- 💡 I’ve solved **300+ problems on LeetCode**
+- 💡 I’ve solved **400+ problems on LeetCode**
 - 🧠 Passionate about turning ideas into products
 - 🤝 Always up for learning, mentoring, and networking
 
@@ -97,12 +97,5 @@ An AI-driven platform for civic engagement and social change via micro-campaigns
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhishhek-Verma&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishhek-Verma&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-r
+
+
