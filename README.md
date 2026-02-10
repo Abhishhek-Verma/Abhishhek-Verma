@@ -5,15 +5,16 @@
 # 👋 Hi, I’m Abhishek Verma
 
 🎓 **B.Tech Computer Science Student | MERN Stack Developer | AI Enthusiast**  
-📍 Ghaziabad, Uttar Pradesh, India
+📍 Ghaziabad, Uttar Pradesh, India  
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Abhishhek-Verma&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishhek-Verma" /> 
+  <img src="https://komarev.com/ghpvc/?username=Abhishhek-Verma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
 </p>
 
 </td>
+
 <td>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 </td>
 </tr>
 </table>
@@ -36,66 +37,104 @@
 
 ---
 
-## 💻 Projects I'm proud of:
+# 💻 Projects I'm proud of
 
-### 🚀 [DevScope](https://github.com/Abhishhek-Verma/DevScope)
-A dynamic developer portfolio generator that turns GitHub data into AI-powered dashboards and professional summaries.  
-**Tech Stack:** React, Node.js, Supabase, OpenAI, GitHub GraphQL API  
-> 🔹 GitHub OAuth integration  
-> 🔹 AI-generated resume & LinkedIn summaries  
-> 🔹 Public profile URLs & export features
+---
 
-### 🗳️ [Civic Platform](https://github.com/Abhishhek-Verma/Civic-Platform)
-An AI-driven platform for civic engagement and social change via micro-campaigns.  
-**Tech Stack:** MERN Stack, GPT-4, DigiLocker API (Under Process)  
-> 🔹 1-click campaign creation using AI & images  
-> 🔹 Live issue maps, modular engagement tiers  
-> 🔹 4-level trust framework with ID verification
+## 🚀 DevScope  
+### 🔗 [Repository](https://github.com/Abhishhek-Verma/DevScope) | 🌐 [Live Demo](https://devscope-analyser.netlify.app/)
+
+A dynamic developer portfolio generator that transforms GitHub data into **AI-powered dashboards, analytics, and professional summaries**.
+
+**Tech Stack:** React • Node.js • Supabase • OpenAI • GitHub GraphQL API  
+
+✨ Features:
+- GitHub OAuth integration  
+- AI-generated resume & LinkedIn summaries  
+- Public shareable profile URLs  
+- Portfolio insights & analytics  
+- Export-ready developer dashboards  
+
+---
+
+## 🗳️ Civic Platform  
+### 🔗 [Repository](https://github.com/Abhishhek-Verma/Civic-Platform) | 🌐 [Live Demo](https://cursorcivicserver.vercel.app/)
+
+An AI-driven civic engagement platform empowering citizens to **raise issues, launch campaigns, and create real-world social change**.
+
+**Tech Stack:** MERN Stack • GPT-4 • Maps API • DigiLocker API  
+
+✨ Features:
+- 1-click AI campaign creation  
+- Live issue maps with geolocation  
+- Community engagement tiers  
+- Trust framework with ID verification  
+- Social impact tracking  
+
+---
+
+## 🧠 Sahaay – Digital Mental Health Ecosystem  
+### 🔗 [Repository](https://github.com/Abhishhek-Verma/Sahaay) | 🌐 [Live Demo](https://sahaay-mental-wellness.netlify.app/)
+
+A **proactive, privacy-preserving digital mental health platform** designed for Indian university students.  
+Uses **multimodal AI + passive smartphone sensing** for early detection of anxiety and depression.
+
+**Tech Stack:** React Native • Node.js • Federated Learning • Deep Learning • NLP • Computer Vision • Secure Cloud  
+
+✨ Core Features:
+- 🧠 Proactive Early Warning System (risk detection before crisis)  
+- 💬 24/7 empathetic AI chatbot with CBT & mindfulness tools  
+- 🔐 Privacy-by-Design using Federated Learning (DPDP Act compliant)  
+- 🧏 Indian Sign Language (ISL) recognition + 3D avatar synthesis  
+- 🤝 Anonymous peer support & therapist connection  
+- 📊 Institutional dashboard with anonymized insights  
+
+🎯 **Mission:**  
+Bridge India’s 70–92% mental health treatment gap by shifting from reactive crisis care to proactive wellness support.
 
 ---
 
 ## 💞️ I’m looking to collaborate on:
 - Open-source civic tech or AI-based platforms
-- Full-stack development using MERN or Next.js
-- Hackathons and idea-stage startup project
+- Full-stack MERN / Next.js projects
+- Hackathons and early-stage startup ideas
 
 ---
 
-## 🧠 Tech Stack & Tools:
+# 🧠 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="28"/>
 </p>
 
 ---
 
-## ⚡ Fun facts:
-- 💡 I’ve solved **400+ problems on LeetCode**
-- 🧠 Passionate about turning ideas into products
-- 🤝 Always up for learning, mentoring, and networking
+## ⚡ Fun Facts
+- 💡 Solved **500+ LeetCode problems**
+- 🧠 Love turning ideas into real products
+- 🤝 Always open to learning & collaboration
 
 ---
 
-## 📫 Reach me at:
-- 📧 [Email](mailto:abhi.ups838@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/Abhishhek-Verma)
-- 🌐 [Portfolio Website](https://abhishek-verma-portfolio.netlify.app/)
-- 🧑‍💻 [GitHub](https://github.com/Abhishhek-Verma)
+## 📫 Reach me at
+- 📧 Email: abhi.ups838@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/Abhishhek-Verma  
+- 🌐 Portfolio: https://abhishek-verma-portfolio.netlify.app/  
+- 🧑‍💻 GitHub: https://github.com/Abhishhek-Verma  
 
 ---
 
-
-
+⭐️ *If you like my work, consider giving a star to my repositories!*
