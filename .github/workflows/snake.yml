@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
+workflow_dispatch:
 schedule:
 - cron: "0 */12 * * *"
-workflow_dispatch:
 
 jobs:
 build:
@@ -14,8 +14,7 @@ steps:
   - uses: Platane/snk@v3
     with:
       github_user_name: Abhishhek-Verma
-      outputs: |
-        dist/snake.svg
+      outputs: dist/snake.svg
 
   - uses: crazy-max/ghaction-github-pages@v3
     with:
