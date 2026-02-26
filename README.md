@@ -136,5 +136,14 @@ Bridge India’s 70–92% mental health treatment gap by shifting from reactive 
 - 🧑‍💻 GitHub: https://github.com/Abhishhek-Verma  
 
 ---
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishhek-Verma/Abhishhek-Verma/output/snake.svg" alt="snake animation" />
+</p>
+
+---
 
 ⭐️ *If you like my work, consider giving a star to my repositories!*
