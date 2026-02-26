@@ -28,17 +28,17 @@
 ---
 
 ## 👀 I’m interested in:
-- Building impactful full-stack applications
+- Full-time Software Engineering roles (Frontend / Backend / Full Stack)
 - Solving real-world problems through AI & automation
-- Open-source collaboration and community projects
-- Civic tech and digital innovation for social good
+- Project-based freelance & contract development work
+- Building impactful full-stack applications
 
 ---
 
 ## 🌱 I’m currently learning:
 - System Design and Backend Optimization
 - Advanced React Patterns & State Management
-- AI Integrations with OpenAI API
+- Learning CS Core 
 - Competitive Programming and Problem Solving
 
 ---
