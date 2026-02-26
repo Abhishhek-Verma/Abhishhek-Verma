@@ -1,21 +1,25 @@
 <table>
 <tr>
-<td>
+<td width="60%">
 
-# 👋 Hi, I’m Abhishek Verma
-
-🎓 **B.Tech Computer Science Student | MERN Stack Developer | AI Enthusiast**  
-📍 Ghaziabad, Uttar Pradesh, India  
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Abhishhek-Verma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
+<h1>👋 Hi, I’m Abhishek Verma</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;AI+Builder;500%2B+DSA+Solved;System+Design+Learner;Building+Real+World+Impact+Projects&center=true&width=600&height=45">
 </p>
 
+🎓 <b>B.Tech Computer Science Student | MERN Stack Developer | AI Enthusiast</b>  
+📍 Ghaziabad, Uttar Pradesh, India  
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Abhishhek-Verma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
+
 </td>
 
-<td>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </td>
+
 </tr>
 </table>
 
