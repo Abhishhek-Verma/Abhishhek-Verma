@@ -11,13 +11,15 @@
 📍 Ghaziabad, Uttar Pradesh, India  
 
 <br>
-
 <img src="https://komarev.com/ghpvc/?username=Abhishhek-Verma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/> 
-
 </td>
 
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img 
+    src="https://plus.unsplash.com/premium_vector-1721296175362-c52a73ff127b?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    width="300"
+    style="border-radius:14px;"
+  />
 </td>
 
 </tr>
