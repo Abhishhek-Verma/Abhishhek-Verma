@@ -139,15 +139,14 @@ Bridge India’s 70–92% mental health treatment gap by shifting from reactive 
 - 🌐 Portfolio: https://abhishek-verma-portfolio.netlify.app/  
 - 🧑‍💻 GitHub: https://github.com/Abhishhek-Verma  
 
-
-
 ---
-<!-- 🔥 Contribution Streak (Light Theme) -->
+
+## 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Abhishhek-Verma&theme=default" />
 </p>
 
-<!-- 📈 Coding Activity (Light Theme) -->
+## 📈 Coding Activity 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishhek-Verma&theme=default" />
 </p>
