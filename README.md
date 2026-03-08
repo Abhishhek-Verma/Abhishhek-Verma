@@ -145,7 +145,7 @@ Bridge India’s 70–92% mental health treatment gap by shifting from reactive 
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhishhek-Verma&theme=default" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishhek-Verma&theme=default&cache_seconds=1800" />
 </p>
 
 ## 📈 Coding Activity 
