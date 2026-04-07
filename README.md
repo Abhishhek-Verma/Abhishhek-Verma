@@ -4,7 +4,7 @@
 
 <h1>👋 Hi, I’m Abhishek Verma</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;AI+Builder;500%2B+DSA+Solved;System+Design+Learner;Building+Real+World+Impact+Projects&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;AI+Builder;600%2B+DSA+Solved;System+Design+Learner;Building+Real+World+Impact+Projects&center=true&width=600&height=45">
 </p>
 
 🎓 <b>B.Tech Computer Science Student | MERN Stack Developer | AI Enthusiast</b>  
