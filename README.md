@@ -64,41 +64,22 @@ An intelligent codebase assistant that transforms repositories into **AI-powered
 - Interactive developer chat interface
 - Repository insights and knowledge discovery
 ---
+## 🚀 DevScope  
+### 🔗 [Repository](https://github.com/Abhishhek-Verma/DevScope) | 🌐 [Live Demo](https://devscope-analyser.netlify.app/)
 
-## 🗳️ Civic Platform  
-### 🔗 [Repository](https://github.com/Abhishhek-Verma/Civic-Platform) | 🌐 [Live Demo](https://cursorcivicserver.vercel.app/)
+A dynamic developer portfolio generator that transforms GitHub data into **AI-powered dashboards, analytics, and professional summaries**.
 
-An AI-driven civic engagement platform empowering citizens to **raise issues, launch campaigns, and create real-world social change**.
-
-**Tech Stack:** MERN Stack • GPT-4 • Maps API • DigiLocker API  
+**Tech Stack:** React • Node.js • Supabase • OpenAI • GitHub GraphQL API
 
 ✨ Features:
-- 1-click AI campaign creation  
-- Live issue maps with geolocation  
-- Community engagement tiers  
-- Trust framework with ID verification  
-- Social impact tracking  
-
----
-
-## 🧠 Sahaay – Digital Mental Health Ecosystem  
-### 🔗 [Repository](https://github.com/Abhishhek-Verma/Sahaay) | 🌐 [Live Demo](https://sahaay-mental-wellness.netlify.app/)
-
-A **proactive, privacy-preserving digital mental health platform** designed for Indian university students.  
-Uses **multimodal AI + passive smartphone sensing** for early detection of anxiety and depression.
-
-**Tech Stack:** React Native • Node.js • Federated Learning • Deep Learning • NLP • Computer Vision • Secure Cloud  
-
-✨ Core Features:
-- 🧠 Proactive Early Warning System (risk detection before crisis)  
-- 💬 24/7 empathetic AI chatbot with CBT & mindfulness tools  
-- 🔐 Privacy-by-Design using Federated Learning (DPDP Act compliant)  
-- 🧏 Indian Sign Language (ISL) recognition + 3D avatar synthesis  
-- 🤝 Anonymous peer support & therapist connection  
-- 📊 Institutional dashboard with anonymized insights  
-
-🎯 **Mission:**  
-Bridge India’s 70–92% mental health treatment gap by shifting from reactive crisis care to proactive wellness support.
+- GitHub OAuth integration
+- AI-generated resume and LinkedIn summaries
+- Public shareable profile URLs
+- Portfolio insights and analytics
+- Export-ready developer dashboards
+- GitHub activity and contribution analysis
+- Personalized developer branding tools
+- Interactive portfolio generation and sharing
 
 ---
 
@@ -108,27 +89,40 @@ Bridge India’s 70–92% mental health treatment gap by shifting from reactive 
 - Hackathons and early-stage startup ideas
 
 ---
-
 # 🧠 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-0050FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-AI_Powered-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
-
----
 
 ## ⚡ Fun Facts
 - 💡 Solved **650+ LeetCode problems**
