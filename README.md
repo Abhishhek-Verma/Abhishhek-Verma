@@ -4,10 +4,10 @@
 
 <h1>👋 Hi, I’m Abhishek Verma</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;AI+Builder;600%2B+DSA+Solved;System+Design+Learner;Building+Real+World+Impact+Projects&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;AI+Builder;DevOps+Engineer;600%2B+DSA+Solved;System+Design+Learner;Building+Real+World+Impact+Projects&center=true&width=600&height=45">
 </p>
 
-🎓 <b>B.Tech Computer Science Student | MERN Stack Developer | AI Enthusiast</b>  
+🎓 <b>B.Tech (CS) Student | MERN Stack Developer | DevOps |  AI Enthusiast</b>  
 📍 Ghaziabad, Uttar Pradesh, India  
 
 <br>
@@ -38,7 +38,7 @@
 ## 🌱 I’m currently learning:
 - System Design and Backend Optimization
 - Advanced React Patterns & State Management
-- Learning CS Core 
+- Learning CS Core & DevOps
 - Competitive Programming and Problem Solving
 
 ---
@@ -47,20 +47,22 @@
 
 ---
 
-## 🚀 DevScope  
-### 🔗 [Repository](https://github.com/Abhishhek-Verma/DevScope) | 🌐 [Live Demo](https://devscope-analyser.netlify.app/)
+## 🚀 RAG AI Codebase Assistant  
+### 🔗 [Repository](https://github.com/Abhishhek-Verma/AI-Codebase-Chat-Assistant)
 
-A dynamic developer portfolio generator that transforms GitHub data into **AI-powered dashboards, analytics, and professional summaries**.
+An intelligent codebase assistant that transforms repositories into **AI-powered knowledge bases, contextual search systems, and developer support tools**.
 
-**Tech Stack:** React • Node.js • Supabase • OpenAI • GitHub GraphQL API  
+**Tech Stack:** React • Node.js • LangChain • OpenAI • Vector Database • GitHub API  
 
 ✨ Features:
-- GitHub OAuth integration  
-- AI-generated resume & LinkedIn summaries  
-- Public shareable profile URLs  
-- Portfolio insights & analytics  
-- Export-ready developer dashboards  
-
+- Repository ingestion and indexing
+- RAG-powered contextual code retrieval
+- AI-generated code explanations and summaries
+- Natural language querying of codebases
+- Semantic search across files and modules
+- Multi-file context understanding
+- Interactive developer chat interface
+- Repository insights and knowledge discovery
 ---
 
 ## 🗳️ Civic Platform  
@@ -102,7 +104,7 @@ Bridge India’s 70–92% mental health treatment gap by shifting from reactive 
 
 ## 💞️ I’m looking to collaborate on:
 - Open-source civic tech or AI-based platforms
-- Full-stack MERN / Next.js projects
+- Full-stack MERN & DevOps Projects
 - Hackathons and early-stage startup ideas
 
 ---
@@ -129,14 +131,14 @@ Bridge India’s 70–92% mental health treatment gap by shifting from reactive 
 ---
 
 ## ⚡ Fun Facts
-- 💡 Solved **500+ LeetCode problems**
+- 💡 Solved **650+ LeetCode problems**
 - 🧠 Love turning ideas into real products
 - 🤝 Always open to learning & collaboration
 
 ---
 
 ## 📫 Reach me at
-- 📧 Email: abhi.ups838@gmail.com  
+- 📧 Email: abhishekatkiet@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/Abhishhek-Verma  
 - 🌐 Portfolio: https://abhishek-verma-portfolio.netlify.app/  
 - 🧑‍💻 GitHub: https://github.com/Abhishhek-Verma  
