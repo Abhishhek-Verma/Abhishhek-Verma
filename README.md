@@ -161,7 +161,7 @@ A dynamic developer portfolio generator that transforms GitHub data into **AI-po
 ## 📫 Reach me at
 - 📧 Email: abhishekatkiet@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/Abhishhek-Verma  
-- 🌐 Portfolio: https://abhishek-verma-portfolio.netlify.app/  
+- 🌐 Portfolio: Abhishhek.me  
 - 🧑‍💻 GitHub: https://github.com/Abhishhek-Verma  
 
 ---
