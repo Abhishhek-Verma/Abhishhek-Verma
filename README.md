@@ -42,17 +42,38 @@
 - Competitive Programming and Problem Solving
 
 ---
-
 # 💻 Projects I'm proud of
 
 ---
 
-## 🚀 RAG AI Codebase Assistant  
+## 🚀 Self-Healing Distributed Cache
+### 🔗 [Repository](https://github.com/Abhishhek-Verma/Distributed-Cache)
+
+A production-inspired distributed caching system that demonstrates **consistent hashing, replication, fault tolerance, self-healing, and distributed systems architecture**.
+
+**Tech Stack:** React • Node.js • Express • Redis • Docker • WebSocket • Prometheus • Grafana
+
+✨ Features:
+- Distributed multi-node cache cluster
+- Consistent hashing with virtual nodes
+- Automatic key distribution across cache nodes
+- Data replication for high availability
+- Heartbeat-based node health monitoring
+- Automatic failure detection and self-healing
+- Dynamic cluster rebalancing with minimal key movement
+- Real-time cluster monitoring dashboard
+- Prometheus metrics and Grafana visualization
+- Interactive API Playground for testing cache operations
+- Docker-based deployment and horizontal scalability
+
+---
+
+## 🚀 RAG AI Codebase Assistant
 ### 🔗 [Repository](https://github.com/Abhishhek-Verma/AI-Codebase-Chat-Assistant)
 
 An intelligent codebase assistant that transforms repositories into **AI-powered knowledge bases, contextual search systems, and developer support tools**.
 
-**Tech Stack:** React • Node.js • LangChain • OpenAI • Vector Database • GitHub API  
+**Tech Stack:** React • Node.js • LangChain • OpenAI • Vector Database • GitHub API
 
 ✨ Features:
 - Repository ingestion and indexing
@@ -63,8 +84,10 @@ An intelligent codebase assistant that transforms repositories into **AI-powered
 - Multi-file context understanding
 - Interactive developer chat interface
 - Repository insights and knowledge discovery
+
 ---
-## 🚀 DevScope  
+
+## 🚀 DevScope
 ### 🔗 [Repository](https://github.com/Abhishhek-Verma/DevScope) | 🌐 [Live Demo](https://devscope-analyser.netlify.app/)
 
 A dynamic developer portfolio generator that transforms GitHub data into **AI-powered dashboards, analytics, and professional summaries**.
@@ -80,8 +103,6 @@ A dynamic developer portfolio generator that transforms GitHub data into **AI-po
 - GitHub activity and contribution analysis
 - Personalized developer branding tools
 - Interactive portfolio generation and sharing
-
----
 
 ## 💞️ I’m looking to collaborate on:
 - Open-source civic tech or AI-based platforms
@@ -122,6 +143,12 @@ A dynamic developer portfolio generator that transforms GitHub data into **AI-po
   <img src="https://img.shields.io/badge/RAG-AI_Powered-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
 </p>
 
 ## ⚡ Fun Facts
