@@ -171,10 +171,6 @@ A dynamic developer portfolio generator that transforms GitHub data into **AI-po
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishhek-Verma&theme=default&cache_seconds=1800" />
 </p>
 
-## 📈 Coding Activity 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishhek-Verma&theme=default" />
-</p>
 
 ---
 # 🐍 Contribution Snake
