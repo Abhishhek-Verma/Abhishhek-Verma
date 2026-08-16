@@ -51,7 +51,7 @@
 
 A production-inspired distributed caching system that demonstrates **consistent hashing, replication, fault tolerance, self-healing, and distributed systems architecture**.
 
-**Tech Stack:** React • Node.js • Express • Redis • Docker • WebSocket • Prometheus • Grafana
+**Tech Stack:** React • Node.js • Express • Redis • Docker  • Prometheus • Grafana
 
 ✨ Features:
 - Distributed multi-node cache cluster
@@ -73,7 +73,7 @@ A production-inspired distributed caching system that demonstrates **consistent 
 
 An intelligent codebase assistant that transforms repositories into **AI-powered knowledge bases, contextual search systems, and developer support tools**.
 
-**Tech Stack:** React • Node.js • LangChain • OpenAI • Vector Database • GitHub API
+**Tech Stack:** React • Node.js  • OpenAI • Vector Database • GitHub API
 
 ✨ Features:
 - Repository ingestion and indexing
@@ -115,9 +115,7 @@ A dynamic developer portfolio generator that transforms GitHub data into **AI-po
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -134,17 +132,16 @@ A dynamic developer portfolio generator that transforms GitHub data into **AI-po
   <img src="https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pinecone-0050FF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-AI_Powered-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
